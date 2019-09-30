@@ -1,0 +1,2 @@
+# szgmgyak
+első repo
